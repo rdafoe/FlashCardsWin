@@ -1,0 +1,37 @@
+Afterload,The pressure in the aorta against which the left ventricle must pump. Systemic Vascular Resistance. End Diastolic Pressure (EDP).
+Atrioventricular Node,Located on the right side of the interatrial septum delays the electrical impulse to the ventricles.
+Bell,Part of the stethoscope used to hear low pitched sounds (no diaphragm)
+Binaurals,Metal arms of the stethoscope
+Bowels,Thye bigger part of a stethoscope with a diaphragm used to hear most sounds
+Bruits,Sound heard over a vessel with turbulent blood flow due to an obstruction or narrowing of the vessel
+Bundle Branches,"2 total. The right & left conduct the electrical impulses to the Purkinje fibers"
+Bundle of His,"After the electrical impulse passes the AV node it passes here then onto the bundle branches"
+Cardiac Output,Amount of blood pumped through the circulatory system in one minute. Cardiac Output  - SV x HR
+Chambers,"4 of them. 2 atria & 2 ventricles. The atria are smaller & above the larger ventricles the left sided chambers are larger than the right sided chambers. The atria receive blood from the venous system & the ventricles force the blood into the arterial system"
+Circumflex,Curves inferiorly from left coronary artery & provides blood flow to the lateral dorsal side of the left ventricle
+Circus Reentry,"Happens when you have myocardium at different electrical potentials due to ischemia or injury. The electrical impulse will take longer to travel thru ischemic tissue than normal tissue this slower impulse eventually reaches good tissue & is transmitted in a retrograde fashion. This sets the stage for most all tachydysrhythmias."
+Coronary Sinus,Drains the coronary blood flow into the right atrium
+Depolarization,Discharging of cardiac muscle fibers causing contraction
+Diastole,When the heart is at rest & filling with blood from the venous system
+Fick Principle,The movement & utilization of oxygen in the body is dependant on:                                                                       1. Adequate concentration of inspired oxygen (FIO2)                                                                                              2. Appropriate movement of O2 across the aveolar - capillary membrane into the arterial bloodstream
+Gallops S3 & S4,S3 = ventricular gallop "Kentucky" indicates dilated non-compliant left ventricle fluid overload (CHF) post systolic.                                                                                                                                                                                                              S4 = atrial gallop "Tennessee" indicates non-compliant ventricle stretched by atrium                                                                     1. Hypertension or 2. MI"
+Intercalated Disc,Allows the muscle fibers in the heart to transmit electrical impulses between them (gap junctions)
+Kent & Bachman Bundle,Accessory pathways that allow the electrical impulses from the atria to bypass the AV node & arrive at the ventricles quicker than normal.
+LAD,"Left anterior descending anterior branch of the left coronary artery. Provides blood flow to the anterior left ventricle & septum"
+Murmurs,Systolic & Diastolic:                                                                                                                                                                  Systolic indicates  A  P stenosis and/or   M  T regurge.                                                                                                                 Diastolic (worse than systolic) indicates A  P regurge and/or stenosis
+Myofibrils,Muscle fibers that spread the electrical impulse out in all directions
+Papillary Muscles,Anchor the chordae tendineae & act as shock absorbers. 
+Pectinate Muscles,The muscles of the atria
+PMI,"Point of maximum impulse normally at the 4th or 5th left interspace inside the midclavicular line. Pregnancy will shift it to the left"
+Preload,Amount of blood ejected into RV during diastole. The pressure on ventricles at the end of the diastole
+Purkinje Fibers,"The bundle branches terminate here directs the electrical impulse into the myofibrils"
+Repolarization,Recharging muscle fibers back to resting state
+RCA,"Right coronary artery provides blood flow to the right ventricle & SA node - AV node."
+Rubs,Friction of one surface moving over another (sounds like leather being rubbed together). Usually the pericardial sac rubbing against the heart. 
+Sinoatrial Node,"""Pacemaker of the heart"". Small area of pacemaker cells located in the upper wall of the right atrium that have a inherent rate of 72 starts the electrical impulse that causes the heart to contract (depolarization)."
+Starling's Law,The more the cardiac muscles are stretched; the greater the force of contraction
+Stroke Volume,The amount of blood ejected from LV during systole
+Summation Gallop,"When S3 & S4 converge due to fast heart rate. Sounds like ""I can't keep up""."
+Systole,When the ventricle contracts & forces the blood out into the aorta & pulmonary artery
+Trabeculae Carneae,"Marble like endocardium softens the inferior ventricles so the red blood cells don't get damaged as the blood is pushed into the ventricles"
+Valves,"4 total. 2 cusp valves - mitral on left tricuspid on the right. 2 semilunar valves - aortic on left pulmonary on the right. The cusp valves separate the atria from the ventricles & the semilunar valves prevent backflow from the atria"

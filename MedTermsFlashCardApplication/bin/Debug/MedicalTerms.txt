@@ -1,0 +1,36 @@
+Nose Bleed,epitaxis
+Hiccups,singultus
+Burp,eructation
+Pass Gas Rectally,flatus or flatulence
+Sexual Intercourse, coitus
+Bowel gurgles,borborigmus
+Nose Congestion,coryza
+Runny Nose and Throat,catarrhal/catarrh/catarrhea
+Pimple (red), papule
+Pimple (white), pustule
+Hives, uticaria
+Red Skin,erythema
+Itchiness,pruritus
+Vomiting,emesis
+Black and Blue,ecchymosis/ecchymotic
+Small pin point blood,petechiae/petechial
+Blister,vesicle
+Purple patches on skin,purpura
+Ear wax,cerumen
+Cavities (dental),caries
+Facial hair on female,hursitism
+Miscarriage,spontaneous abortion
+Blue skin color,cyanosis/cyanotic
+Swollen,edematous/edema
+Head ache,cephalgia
+Acid Indigestion,dyspepsia
+Meal,prandial
+Smells bad,malodorous
+Faking,malingering
+Mucus from the trachea,sputum
+Jaundiced,icteric
+Reddened skin,flushed
+Blue marbling,mottled
+Goose bumps,piloerection
+Dizzy,vertigo
+Passout (fallout),syncope

@@ -1,0 +1,87 @@
+Action,Performance or function
+Active Transport,The movement of a substance across a cell membrane against the osmotic gradient. This process requires energy; in the form of ATP; to move against the concentration gradient.
+Additive Effect,1+1=2  An effect in which two substances used in combination produce a total effect the same as the sum of the individual effects.
+Adverse Effect,A known adverse effect to a medication
+Agonist,Doer
+Anion,"A negatively charged particle (contains more electron than protons).                                                                               Chloride Cl-
+Bicarbonate HCO3  -
+Phosphate HPO4 --
+"
+Antagonism,Blocker. 1+1=0  Two drugs used conjunctively cancel each other out. They inhibit each other's function.
+Bioavailability,Amount of a drug available to produce a biological effect
+Bicarbonate HCO3-, Anion. Principal buffer in the body. Can neutralize organic acids and other acids in the body helping to maintain homeostasis. Carbonic anhydrase is an enzyme produced by the kidneys to scavenge bicarbonate
+Biotransformation,Chemical changes on a substance by the body
+Blood Brain Barrier,Membrane between circulating blood and brain preventing certain damaging substances from reaching brain tissue
+Brownian Movement,The random movement of a particle suspended in fluid; random movement of an atom.
+Cardiospecific,Drug that has a specific action on the heart only
+Cation,"A positively charged particle (contains fewer electrons than protons):                                                                                                   Sodium or Natrium Na+
+Potassium or Kalium K+
+Calcium Ca++
+Magnesium Mg++
+"
+Calcium Ca++,Cation. Triggers almost every intracellular function. Important in neural impulse transmission and muscle contraction.
+Chloride Cl-,Anion. Often found with sodium extracellularly. Important in fluid balance and renal function.
+Circadian Rhythm,Internal body rhythms occurring at regular intervals. Your body has more than 100 circadian rhythms. Each unique 24-hour cycle influences an aspect of your body's function; including body temperature; hormone levels; heart rate; blood pressure-- even pain threshold.
+Competitive Antagonist,"Competes with an agonist for a receptor. The highest concentration that sticks the best wins. When the antagonist is bound to a receptor site the agonist can?t bind to the receptor. 
+Competitive antagonism is reversible. E.g. Narcan is a competitive antagonist with heroin"
+Diffusion,Movement of molecules from an area of higher concentration to an area of lower concentration. No energy is required in diffusion; passive movement; always follows concentration gradient of high to low. Salts diffuse in and out of cells.
+DNA,The material inside the nucleus of cells that carries genetic information. The scientific name for DNA is deoxyribonucleic acid.                                                                                                                                                     4 types: Adenine; Thymine; Guanine; Cytosine. These are the four bases found in DNA that hold the DNA strands together.
+Down-regulation,Over stimulation of receptors may reduce the number of receptors
+EC50(Effective concentration 50%),The concentration of a drug that produces a specific clinical effect in 50% of the tested population.
+Efficacy,How well a drug works; the degree to which a drug is able to induce maximal effects; effectivity.
+Extrapyramidal Reaction,Specific untoward reaction to phenothiazine group of tranquilizers that results in uncomfortable face; neck & upper extremity paraylsis; often the pt will present in weird poses making you think the pt is a psych case. Benadryl can be used to treat this.
+Facilitated Diffusion,Sometimes a molecule is too big to move through simple diffusion; cells don?t have big enough pores in their membranes. Transporter proteins facilitate diffusion through a cell membrane if this is the case. Transporter proteins open and close and typically do not require energy for this process. E.g. Glucose is able to diffuse across a cell membrane; but does so slowly. With the assistance of glut transporters; glucose is able to move much more quickly into cells through active (requiring energy) diffusion through the transporter proteins.
+First Pass Effect,The effect the liver has on a medication that is taken orally (enteral)
+Free Radicals,Unused portions of chemical in the system that; though in moderation are essential to life and cellular function; can cause irritation and disease; causing inflammation.
+Gradient,An ascending or descending part; an incline;  a slope. Physics: The rate at which a physical quantity; such as temperature or pressure; increases or decreases relative to change in a given variable; especially distance. Biology:  A series of progressively increasing or decreasing differences in the growth rate; metabolism; or physiological activity of a cell; organ; or organism
+Half Life,Time it takes the body to metabolize one half of a drug. After seven half lives - the drug is gone
+Hypertonic,"Solution on one side of a membrane is greater. Osmolarity higher than that of serum.  Expands intravascular volume.  Causes the cell to shrivel (crenation). Used for volume; hydration; & electrolyte replacement.
+D5NS
+D5LR
+D50W (50% Dextrose)
+3% NaCl
+Albumin
+"
+Hypotonic ,"Solution on one side of a membrane is less. Osmolarity less than that of serum.  Used as solvent for infusions.  Drawn-in causing the cell to swell or burst (lyse). Can cause shift of fluid into cells & interstisium.
+0.45% NaCl (1/2 normal saline)
+D5W after infusion
+"
+Isotonic,"Osmolarity about equal to serum.  Used for intravascular volume expansion.                                                                                   0.9% NaCl (normal saline)
+Lactated Ringer?s
+5% dextrose/water (D5W)  Only isotonic prior to administration.  Becomes free water after administration; therefore a hypotonic solution
+
+"
+LD50,Lethal dose in 50% of the test animals
+Magnesium Mg++,Cation. Important in muscle relaxation. Will ?undo? what calcium does.
+MLD(Minimum lethal dose),Minimum dose reported to cause death in a population. This will usually be lower than the LD50
+Mechanism of Action,How something works
+Na+ K+ ATPase Pump,Active transport; uses energy; cells pump Na+ out and K+ in
+Non-competitive Antagonist,Will bind to the receptor in a spot other than its typical binding site. This alters the shape of the receptor site and the receptor will no longer recognize the agonist it?s meant to recognize. This is generally an irreversible process.
+Pharmacokinetics,The body's reaction due to a drug
+Phosphate HPO4-,Anion. Important in energy stores; energy used in ATP comes from phosphate bonds.
+Phospholipid Bilayer,Outer membrane of most cells; one part is soluble in water; the other is fat soluble
+Placebo,Fake medication
+Potency,The amount of a drug required to produce 50% of the maximal response it?s capable of producing; how strong the drug is. The higher the potency; the smaller dose needed to produce a given effect.
+Potassium K+,Cation. Kalium (K+).  Primary intracellular cation. With sodium; it helps to maintain the electrical potential in cells; especially the nervous system. 
+"
+Potentiation,Two drugs given at same time; one is enhanced by the other
+Prostaglandins,A potent substance that acts like a hormone and is found in many bodily tissues (and especially in semen); produced in response to trauma and may affect blood pressure and metabolism and smooth muscle activity. Substances needed to feel pain & provide buffer for stomach 
+Protein Binding,Many drugs are highly protein bound. You should not give a pt two protein bound drugs because one drug will bounce the other off the protein allowing the kidneys to eliminate it. This can really mess with the theraputic window. ETOH is also protein bound and will bounce medications
+Receptor,Intracellular communication is achieved by the exchange of chemical signals allowing specific information to be transmitted. Most drugs bind to the receptor sites where these chemical transmitters would normally bind. Receptor sites are either stimulatory or inhibitory. A signal is either turned on or turned off. With drugs; we either make a cell do what it?s supposed to do or stop it from doing what it?s supposed to do.
+-if you stimulate a stimulatory receptor it will have a stimulatory effect
+-if you stimulate an inhibitory receptor it will have an inhibitory effect
+-if you inhibit a stimulatory receptor it will have an inhibitory effect
+-if you inhibit an inhibitory receptor it will have a stimulatory effect
+"
+Second Messenger,Second messenger system utilizes receptors on the surface of a cell; coupled with chemicals on the interior surface of the cell (kinase). When a message is delivered to the receptor site it signals the kinase to carry out a function within the cell. This has a cascade effect within the cell.
+Sodium Na+,Cation. Natrium Na+. 
+Important for fluid balance; water follows sodium. Also important in neural impulse transmission. Primarily extracellular.
+"
+Subtherapeutic,Below the level required for a medication to be effective
+Synergism,1 + 1 = 3; Two similar drugs that greatly enhance each other
+Tachyphylaxis,Rapid shutting down of receptor sites due to over stimulation
+Teratogen,Drug or substance that causes birth defects
+Therapeutic Index,Area between minimum effective dose & maximum tolerated dose
+Tonicity,The ability of a solution to cause water movement. Tonicity refers to the normal distribution of a solution whether its normal state is isotonic; hypertonic or hypotonic.
+Toxic,Poisonous
+Up-regulation,Under stimulation of receptors may increase the number of receptors

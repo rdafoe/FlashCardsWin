@@ -1,0 +1,143 @@
+a-,Denotes an absence of
+ab-,away from
+-ac,pertaining to
+acou-, Of or relating to hearing
+ad, toward - in the direction of
+aden, gland
+adip,Of or relating to fat or fatty tissue
+-al,pertaining to
+alb-,Denoting a white or pale color
+alg,pain
+-algia,pain
+all,different or as an addition
+ambi-,both sides; Describing both of two
+andr(o),pertaining to a man
+angi(o),blood vessel
+aniso-,Different in size ; unequal
+ante-,before or forward
+anti-,'against' or 'opposed to' 
+arteri(o)-,Of or pertaining to an artery
+arthr(o)-,Of or pertaining to the joints, limbs
+-ase,enzyme
+-asthenia,weakness
+aud, hear
+aur,Of or pertaining to the ear
+aus, hear
+auto,self
+bi-,twice, double
+bio-,life
+blast,immature cell or germ 
+bleph,Of or pertaining to the eyelid
+brachi,Of or relating to the arm
+brady,Indicating 'slow'
+burs,sac
+can, malignant tumor
+capnia, carbon dioxide
+carbia, carbon dioxide
+carc, cancer
+card, heart
+cardi(o)-,Of or pertaining to the heart
+carotid, neck artery
+carp(o)-,Of or pertaining to the wrist
+caus, burn
+caut, burn
+cent, center or 1/100th
+centesis, puncture with needle
+cephal(o)-,Of or pertaining to the head (as a whole)
+chrom,color
+chrono,time
+cide,killing; destroying
+circum-,Denoting something as 'around' another
+co-,with, together; in association
+contra,against
+core, Of or pertaining to eye's pupil
+cry(o)-,cold
+cubitus,elbow
+cuss,shake
+cutaneous,skin
+-cyte,cell
+cyan(o),blue
+cyst(o),bladder;sac
+dent,tooth
+derm,skin
+dextro,right
+di,two;twice;double
+dia,through;completely
+dys,with pain or difficulty
+ecto, out from
+ectomy, surgical removal
+ego, goat; self
+emesis, voimt
+-emia, in the blood
+endo,within
+ep(i),on top of
+erythr(o), red
+eu,normal
+fibr,fibers
+foramen,opening
+fract,break
+gastr(o),stomach
+gen,become;produce
+genic, causing; forming
+gloss,tongue
+gluco,glucose
+-gnosis,knowledge
+-gram,written; recording
+hem(a),blood
+hemi,half
+hepat(o),liver
+hydro,water
+hyper,excessive
+hypo,deficient; Lacking; insufficient
+hyster(o),uterus
+idio,personal;strange
+infra,below
+inter,between
+ism,condition of
+-itis,inflammation
+leuk(o),white
+lith(o),stone
+-lysis,destroying
+lythic,destruction
+macro,large
+micro,small
+morph,shape
+nas(o),nose
+neo,new
+nephr(o),kidney
+oid,likeness,resembles
+-ology,science of
+-oma,tumor
+opthal,eye
+-osis,condition of
+oxia,oxygen
+oxy,oxygen
+para,next to; by the side of
+path(o),disease
+pheo,dusky color
+phleb(o),vein
+-phobia,fear
+photo,light
+plastic,substance(formed tissue)
+-pnea,breathing
+pneum(o),air; lung
+post,after; behind
+pro,before; in front of
+pseudo,false
+quad,four
+rhin(o),nose
+rub,red
+sang,blood
+scler,hard
+stern(o),sternum (breastbone)
+stoma,mouth; opening
+sub,under
+supra,above
+tachy,fast
+thermia,relating to temperature
+tri,three
+uni,one
+vaso,vessel
+vivo,life
+xfer(o),dry
+Zoo,non-human animal

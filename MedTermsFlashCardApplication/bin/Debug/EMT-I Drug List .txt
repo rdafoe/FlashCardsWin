@@ -1,0 +1,73 @@
+What is the adult dose for activated carbon? , 50g
+What is the pediatric dose for activated carbon? , 1g/kg
+What are the contraindications for activated carbon? , Poisonings due to methanol, caustic acids and alkalis, iron tablets and lithium.  Do not use for cyanide poisoning.
+What is the route for activated carbon? , Oral
+How is activated carbon supplied? , Fine black powder in 25g and 50g.
+What is the adult dose for atropine for bradycardia? , 0.5-1.0mg
+What is the adult dose for atropine for bradyasystolic? , 1mg IVP
+What is the pediatric dose for atropine? , 0.02mg/kg IV
+What are the contraindications for atropine? , None in an emergency
+What does atropine do? , Increases heart rate and cardiac output.  Bradysystolic arrest, asystole, PEA.
+How is atropine supplied? , 1mg/10ml pre-filled syringe
+What is the adult dose for albuterol? , 2.5mg in 2.5 to 3.0ml NS.
+What is the pediatric dose for albuterol? , 0.15mg/kg in 2.5-3.0ml NS.
+What are the contraindications for albuterol? , Hypersensitivity
+What is the route for albuterol? , Inhalation
+What does albuterol treat? , Bronchospasm associated with reversible obstructive airway disease (e.g. Asthma, Bronchitis, Emphysema.
+How is albuterol supplied? , Metered-dose Inhaler, bottles of 0.5% solution for use in nebulizer.
+What is the adult dose for baby aspirin? , 324mg (4 tablets)
+What is the pediatric dose for baby aspirin? , Not recommended in children.
+What are the contraindications for baby aspirin? , Hypersensitivity, bleeding disorders, Von Willebrand's disease.
+How is baby aspirin administered? , Orally
+What does baby aspirin treat? , Chest pain from MI, prevent thrombosis, reduce risk of heart attack. Lowers threshold for shock, increase heart rate.
+How is baby aspirin supplied? , 81mg tablets.
+What is the adult dosage for D50? , 25g
+What is the pediatric dosage for D50? , 2ml/kg of a 25% solution.
+When should you not give D50? , Intracranial bleed.
+How is D50 given? , IV push
+What does D50 do? , Increases blood sugar level in hypoglycemia.
+How is D50 supplied? , Pre-filled syringes containing 50ml of 50% dextrose (25g).
+What is the adult dosage for Epi 1:1000? , 0.3mg-0.5mg SQ
+What is the pediatric dosage for Epi 1:1000? , 0.01mg/kg SQ
+What are the contraindications for giving Epi 1:1000? , Hypersensitivity
+How is Epi 1:1000 given? , SQ
+What does Epi 1:1000 treat? , Anaphylaxis, asthma, vasoconstrictor, bronchodialator.
+How is Epi 1:000 supplied? , Ampules of 1mg epinephrine in 1ml solution.
+What is the adult dosage for Epi 1:10,000? , 1mg for cardiac arrest every 3-5 minutes.
+What is the pediatric dosage for Epi 1:10,000? , 0.01mg/kg for cardiac arrest every 5 minutes.
+How can Epi 1:10,000 be administered? , IV, IO ,ET
+What does Epi 1:10,000 treat? , Cardiac arrest, vasoconstrictor, bronchodialator.
+How is Epi 1:10,000 supplied? , Pre-filled syringes containing 1mg epinephrine in 10ml solution.
+What is the adult dosage for Glucagon? , 1mg SQ or IM.  0.25mg-0.5mg IV. Takes 5-20 minutes to work.  2nd dose may be given.
+What is the pediatric dose for Glucagon? , 0.5mg in children under 25kg (55lbs).
+What are the contraindications for Glucagon? , Hypersensitivity
+Why is Glucagon given? , To treat hypoglycemia when an IV cannot be established.
+How is glucagon supplied? , Vials containing 1mg or 10mg of powder with distilled solution.
+What is the adult dosage for lidocaine? , 50mg-100mg (1.0-1.5mg/kg) IV Push repeated 3-5min. Infusion of 2-4mg/min (30cc/hr).
+What is the pediatric dosage for lidocaine? , 1mg/kg repeated 10-15min.
+What are the contraindications for lidocaine? , Allergic to lidocaine or local anesthetics, 2nd-3rd degree heart block, sinus bradycardia, idioventricular rhythm.
+How is lidocaine given? , IV Bolus or infusion, ET
+What does lidocaine do? , Prevents V-fib in acute MI, recurrence of V-fib. To treat V-tach.  Shockable rhythm.
+How is lidocaine supplied? , Pre-filled syringes 100mg in 5ml (20mg/ml) vials of 1-2g, pre-mixed bags of 2g/500ml (4mg/ml).
+What is the adult dosage for morphine? , 2-5mg.
+What is the pediatric dosage for morphine? , Not indicated for pediatric use.
+What are the contraindications for morphine? , Hypersensitivity, emotional instability, drug abuse, head injury, increased intracranial pressure, or compromised respiratory state of accute pulmonary edema.
+What are the routes for morphine? , IV, IM
+What does morphine do when given IV or IM? , Reduces severe pain when transport is greater than 15 minutes.
+How is morphine supplied? , 2-10mg/ml syringes.
+What is the adult dosage for narcan? , 0.4-2mg titrated (slowly).
+What is the pediatric dosage for narcan? , 0.01mg/kg.
+What are the contraindications for narcan? , None
+How is narcan given? , IV, IM, SQ, IO
+What does narcan do? , To treat known narcotic overdose or coma suspected to be due to narcotic overdose.
+How is narcan supplied? , In vials of 1ml containing 0.4mg and multidose vials of 10ml of 0.4mg.ml for adult use and 0.02mg for pediatric.
+What is the adult dosage for nitroglycerin? , 0.4mg repeated every 5 minutes.  3 doses maximum.
+What is the pediatric dosage for nitroglycerin? , Not indicated.
+What are the contraindications for giving nitroglycerin? , Increased intracranial pressue, glaucoma, hypotension, hypovolemia, hiccups or epigastric distress with symptoms of AMI, Viagra, shock.
+How is nitroglycerin given? , Sublingually.
+What does nitroglycerin do? , Relieves the pain of angina. Vasodialator.
+How is nitroglycerin supplied? , Ointments, tablets, capsules, spray, or patches.  Tablets preferred.
+What is the adult and pediatric dosage for O2? , 15L/min NRB or blowby.
+How is O2 given? , By inhalation.
+What does O2 do? , Condition of global or local hypoxemia may be present.
+                                    

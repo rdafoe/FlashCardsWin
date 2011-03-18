@@ -1,0 +1,9 @@
+Acute Injury,"Myocardium is dying due to lack of O2, this is the stage usually called a ""MI"""
+Axis,"Direction of the vector of depolarization, normal is 0 to 90o"
+Bundle Branch Block,"Can determine which bundle branch is blocked by using lead V1. A left BBB will be a negative deflection .12 secs or greater. A Right BBB will be a positive deflection .11 secs or greater. If pt has a LBBB,  you can not diagnose MI from the 12 lead EKG. "
+Early Repolariztion,"Can mimic ST elevation, this is commonly seen in healthly black men as a normal condition"
+Infarct Location,"Leads II III aVF = inferior wall MI or DMI                                                                                                                                                 Leads I aVL V6 = Lateral wall MI                                                                                                                                                       Leads V1 V2 = Septum                                                                                                                                 Leads V3 , V4  = Anterior wall                                                                                                                            Leads V5 , V6  = Anterior lateral wall"
+Ischemia,Heart is starved for O2 but no permanent injury
+Pericarditis,Generalized elevation of the ST segments with an upward concavity in many leads including all three standard leads
+Subendocardial Infarction,"The subendocardium is especially vulnerable to infarct because being close to the ventricular cavity, it is subject to high pressure & is first effected when coronary perfusion is inhibited. Cannot be easily recognized from EKG. "
+Wolf-Parkinson-White    (WPW),Characterized by the Delta wave & very small ' PR ' interval & wide ' QRS '.

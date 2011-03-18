@@ -1,0 +1,37 @@
+6 P's of Arterial Obstruction,"Pulselessness; Pallor; Paresthesia; Pain; Paralysis; Poikilothermia.                                                     Paresthesia is like ""pins & needles""; Poikilothermia is same temperature as the environment"
+Arcus Senilis,Gray band of opacity around the cornea; a normal finding with aging
+Battle's Sign,Ecchymosis of the mastoid process indicates a basilar scull fracture. Usually not seen by EMS due to it's late onset
+Beck's Triad,3 signs for cardiac tamponade; narrowing pulse pressure; JVD; distant heart sounds.
+Babinski Sign,Stroke the sole of foot from heel to little toe & over to big toe. Normal response is flexor (toes bend down); you have a Babinski response if toes fan up & out. A test of L-5; S-1 dermatomes. In peds under 6 months to 1 year the response is opposite.
+Brudzinski,To test for meningeal irritation. With the pt supine; flex the pt's head & neck toward chest. Note flexion of knees or hips; pain or resistance.
+Bruit,When you hear blood flow thru an artery; usually means some kind of obstruction.
+Chvostek's,A test for hypocalcemia; percuss the top of the cheek in front of the ear with the tip of the index finger. If you cause facial muscle contractions; especially shutting of eyes; pt is likely to be hypocalcemic.
+Coon's Eyes,Periorbital ecchymosis indicates a basilar scull fracture. Usually not seen by EMS due to its late onset
+Cullen's Sign,Bluish discoloration of the periumbilical skin due to intraperitoneal hemorrhage; caused by ruptured ectopic pregnancy or acute pancreatitis.
+Cushing's Reflex,Increased blood pressure; decreased heart rate = increased intracranial pressure
+Deep Tendon Reflexes,Tests the intactness of the afferent; efferent & spinal nerves that comprise the reflex arc.
+Fasciculations,Muscle twitching due to spontaneous repetitive firing of motor nerves. It can occur normally in the cold. Amyotrophic Lateral Sclerosis (ALS); or other upper motor demyelinating diseases
+Fluid Wave,Have pt press edges of both hands into midline of abdomen. Tap one side & feel for a wave transmitted to the other side. A palpable wave suggests ascites.
+Grey-Turner's Sign,Ecchymosis of the flanks; indicates intraperitonial hemorrhage; Fulminant Acute Pancreatitis
+Homans Sign,Discomfort behind the knee on forced dorsiflexion of the foot; due to thrombosis in the calf veins
+Hoover's Sign,In the state or in true paralysis; when the pt presses the leg against the surface on which he is lying; the other leg will lift. 
+Kehr's Sign,Ipsilateral shoulder pain from inflamed diaphragm
+Kernigs,To test for meningeal irritation. Flex the pt's leg at the hip & knee; then straighten knee. Note pain or resistance.
+Levine's Sign,Pt. will subconsciously hold fist over chest to indicate Chest Pain
+Moon Facies,Fatty deposits over cheek; thin skin. Cushing's Syndrome
+Murphy's Sign,When the inflamed gallbladder is palpated by pressing fingers under the rib cage; deep inspiration causes pain because the gallbladder is forced down to touch the fingers. RUQ pain aggravated by inspiration. Acute Cholecystitis
+Nuchal Rigidity,To test for meningeal irritation; pt will have a stiff neck. This alone is not a good test for meningeal irritation.
+Opthalmoscopy,Examination of inside the eye. This is the only place you can see the arteries.
+Orthostatics,Used to test for postural hypotension. A decrease of 15mm/Hg or more in systolic pressure or any decrease in diastolic press when the pt changes from supine to a sitting or standing position is considered postural hypotension. An increase in HR > 10 is also indicator.
+Otoscopy,Examination of the ear with an Otoscope; you can visualize the tympanic membrane with this.
+Photophobia,Unusual intolerance of light. Occurs in measles & rubella; meningitis & inflammation of the eyes.
+Primitive Reflexes,Reflexes you are born with. We learn to control them as we mature. If a pt reverts back to them; they have some damage of the cerebral cortex.
+Psoa's Sign,Have pt supine & try to lift right leg against your hand; severe abdominal is positive psoa's. The appendix is under the psoa muscle & when that muscle is tensed it puts pressure on the appendix.
+Pulsus Alternans,A weak pulse alternating with a strong one
+Pulsus Biferiens,Bifid Pulse. Two distinct impulses with each heartbeat. Aortic Insufficiency; Hypertrophic Cardiomyopathy
+Tactile Fremitus,The vibration or thrill felt while the pt is talking & the hand is held against the chest
+Thrill,Abnormal tremor felt over an artery.
+Trousseau's,A test for hypocalcemia; inflate a blood pressure cuff around pt's arm and maintain for 1-2 minutes; carpopedal spasm indicates Tetany; hypocalcemia or hyperventilation.
+Universal Sign,For chocking; both hands around the neck
+Waddell's Triad,Found in children hit by car; femur fracture; thoracic injury; head injury contralateral to other injuries.
+Waterhammer Pulse,Pulse that is short; powerful; jerky beat that suddenly collapses. Diagnostic of aortic regurgitation; its force is due to ventricular hypertrophy & the large amount of blood expelled with each systole; its sudden recession is due to the incompetent aortic valve allowing backflow.

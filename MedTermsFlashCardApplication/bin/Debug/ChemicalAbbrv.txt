@@ -1,0 +1,8 @@
+Na, Sodium Range: 135 - 145
+k, Potassium Range: 3.5 - 5.3
+Hct, Hematocrit Range 40 - 52
+pH, Power of Hydrogen Range: 7.35 - 7.45
+paCO2, Partial Pressure of CO2 Range: 35 - 45 torr(mmHg)
+paO2, Partial Pressure of Oxygen Range: >80 torr(mmHg)
+HCO3-, Bicarb Range: 22 - 26
+

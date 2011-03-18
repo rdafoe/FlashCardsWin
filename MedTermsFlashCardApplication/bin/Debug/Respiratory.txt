@@ -1,0 +1,57 @@
+Alpha1  Antitrypson,Inhibits trypson to prevent breakdown of lung tissue
+Apneustic,In the pons; provides inspiratory drive
+Atelectasis,Lack of air and/or surfactant in avoli causes it to collapse
+Bibasilar,Both bases of the lungs
+Bleb,Pimple on the visceral pleura
+Blue Bloater,Bronchitis
+Chronic Bronchitis,Excessive muscus production
+Ciliary Mucus Elevator System,Hairlike processes & mucus in respiratory tract that move secretions and contaminants upward so they can be coughed out
+Consolidation,Pneumonia; act of becoming solid
+COPD,Chronic Obstructive Pulmonary Disease
+Dead Space,Space between nose and bronchioles; the air that never reaches the alveoli (about 150mL).
+Emphysema,Increased size of air spaces due to over production of trypson and other destructive forces such as smoking; also alters the walls making gas exchange difficult
+Empyema,Puss in the pleural space
+Epiglottitis,Bacterial infection of the epiglottis
+Gridlock,Diaphragm is forced upward by distended stomach not allowing it to move down to pull air into the lungs
+Hilus,Entrance of the lungs. Only place where blood vessels enter.
+Lung Abscess,Closed parenchymal infection
+Macintosh,Curved blade for laryngoscope
+Magill Forceps,Used to remove objects from the throat
+Miller,Straight blade for laryngoscope
+Minute Volume,The volume of air you breathe in a minute
+Mucus Plug,Due to over production of mucus that dries and thickens. Forms hard plug that obstructs the airway
+Partial Pressure,Pressure exerted by each component of gas
+Pink Puffer,Emphysema
+Pleurisy,Inflammation of the membrane that lines both lungs
+Pneumonia,Bacterial infection of the lungs
+Pneumosepsis,Sepsis originating from a lung infection
+Pneumotaxic,Area in pons that regulates breathing
+Pulmonary Edema,Fluid in lungs due to left heart failure; sometimes seen in right failure
+Pulmonary Effusion,Escape of fluid into the lungs
+Pulmonary Embolus,"Mass in pulmonary artery or one of its branches blocking blood flow. A thrombus that travels from the blood vessel or heart to another location in the body is called an embolus; and the disorder; an embolism. For example; an embolus that occurs in the lungs is called a pulmonary embolism.
+"
+Rhonchus,On auscultation; snoring sound heard over lungs. Asthma
+Shunt,Diverts flow
+Spontaneous Pneumothorax,When a bleb pops; usually seen in tall thin men. Up to 20% pneumothorax is usually well tolerated & heals itself 
+Vallecula,Indentation at the base of the tongue above the epiglottis
+Vital Capacity,The volume of air you expel after a full inspiration
+Wheeze,On expiration; squeaking high pitched sound; often audible to unaided ear. Musical sound; air passing thru very constricted airways. Asthma; Emphysema; COPD
+Agonal ,"Gasping respirations; long times between breaths; ""dying respirations"""
+Air Hunger,Caused by dyspnea; pt gets restless nervous and starts flailing around; they need O2 or they will be a code soon
+Ataxia,No pattern at all; common in seizure patients
+Biot's,Runs of 3 or 4 deep fast breaths with apnea between; very rare; Biot's respiration is caused by damage to the medulla oblongata
+Bronchophony,"Have pt say ""99""; you can hear it over consolidated areas"
+Cheyne-Stokes,Shallow progessing to very deep back to shallow with apnea in between
+Compliance,Measure of the force required to distend the lungs.
+Egophony,"Have pt say ""E""; over areas of consolidation; you'll hear a nasal ""A"""
+Hiccup,"""Singultus"". Believed to be caused by chemical or phrenic nerve irritation. ** Can be a serious sign indicating DMI."
+Kussmaul's ,Deep gasping respirations; seen with diabetic acidosis and coma. DKA
+Pursed Lip Breathing,Used to create back pressure & prevent avoli from collapsing; PEEP
+Rales,Crackles; air thru smaller airways often heard with PE
+Rhonchi,Larger upper airways; wet rattling sound.
+Sigh,Deep inspiration followed by audible expiration
+Sneeze,Explosive movement of air; naturally occuring to clear the nasal cavity
+Sputum Color,Green or yellow may indicate lung infection. 
+Stridor,High pitched; harsh sound due to partially obstructed airway
+Subcutaneous emphysema,Subcutaneous emphysema occurs when air gets into tissues under the skin covering the chest wall or neck. This can happen due to stabbing; gun shot wounds; other penetrations; or blunt trauma. Subcutaneous emphysema can often be seen as a smooth bulging of the skin. When a health care provider feels (palpates) the skin; it produces an unusual crackling sensation as the gas is pushed through the tissue
+Tripoding,Position pt is usually found in with severe difficulty breathing. Pt is leaning forward with elbows on knees; with head in the sniffing position

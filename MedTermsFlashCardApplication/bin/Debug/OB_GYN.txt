@@ -1,0 +1,65 @@
+Abortion, - 20 weeks
+Abruption,Premature separation of the placenta; severe pain; may or may not see bleeding
+Adhesions,Fibrous bands that bind organs to each other; can cause severe pain
+APGAR,"APGAR 1   Scores 
+Sign                     0                       1                             2
+Heart Rate       Absent                 Slow                       Normal
+                                                    (<100/min)                (>100/min)
+Respirations    Absent                 Weak                     Strong (crying)
+Muscle Tone   Limp                     Some Flexion         Active Motion
+Reflexes         No Response        Grimaces               Cough or Sneeze
+Color              All Blue or Pale     Extremities Blue     No Blue
+ 
+Score at 1 minute and at 5 minutes.
+A score of 0-3 is critical; 4-6 is depressed; 7-10 is normal.
+NOTE: it is very unlikely that a new born will score a 10 at the 1 minute mark. 
+
+(1) APGAR is an acronym for Appearance ""color""; Pulse ""heart rate""; Grimace ""reflexes"";  Activity ""muscle tone""; Respiration 
+
+(2) Reflex to a stimulus such as nasal suctioning or rough toweling.
+"
+Braxton Hicks ,False labor
+Breech,Fetal buttocks presents first instead of the head
+Catamenia,"Often refered to as the ""cat"".   It?s the menstrual formula; used as a reporting tool:   Menarch x Cycle length x Flow length X Menopause. Seen as: ""cat=12x28x5x50"""
+Cesarean Section,Removal of the fetus by incision into the uterus
+Contraception,The prevention of pregnancy; birth control
+Dilitation & Cutterage,Surgical procedure of scraping off the lining of the uterus. Used for diagnostic & treatment purposes.
+Dysmenorrhea,Painful bleeding during menses
+Dystocia,Difficult labor; due to large fetus; small pelvis; etc.
+Eclampsia,Coma & seizures between after 20th week; can be fatal. Only cure is delivery; mag sulfate is drug of choice to temper it ( 4gm loading dose over 20 mins & run at 2GM/Hr; can go up to 4 GM/Hr.)
+Ectopic Pregnancy,Implantation of fertilized egg outside of uterine cavity
+Effacement,Thinning of the cervix during labor
+Endometriosis,When endometrium is found outside of the uterus
+Episiotomy,Incision in perineum to prevent tearing during child birth
+Erythroblastosis Fetalis,Hemolytic Disease of the newborne. Develops when a Rh-negative woman carries a Rh-positive fetus. Fetal RBC's cross the placenta & enter the mother's circulation causing antibody production against the Rh factor. These antibodies cross back into fetal circulation & destroy the fetal RBC's. The drug; Rho(D) immune globulin (RhoGAM) is used to prevent the mother from becoming sensitized to the Rh- positive fetus; preventing Erythroblastosis Fetalis.
+Gravid,Number of pregnancies
+Gynecology,The study of the female reproductive tract
+Hydatiform Mole,Also called Trophoblastic Disease or a molar pregnancy; usually noted around 12 weeks of pregnancy by the uterus expanding much faster than normal and the lack of fetal heart tones. Happens in less than 1% of all pregnancies; sometimes goes to term and pt will deliver grape like tissue
+Inevitable,Abortion that can't be halted
+Intrauterine Device,IUD; used as a contraceptive; implanted in the uterus; not sure exactly how it works.
+Leopolds Maneuver,Abdominal palpation to determine presentation and position of fetus in utero
+McRoberts Position,Extreme elevation of legs. Knees are up over shoulder
+Menarche,When menses first begins
+Menopause,When menses end
+Menorrhagia,Heavy bleeding during menses
+Mittleschmertz,"""Midcycle pain""; believed to be pain of ovulation."
+Nuchal Cord,When the cord is wrapped around the baby's neck; you must always check for this and if you have it try to loosen the cord and lift it over head; if you can't then you will have to clamp and cut it
+Ovarian Torsion,The ovary twisting around itself
+Para,The disposition of the pregnancies; term; preterm; abortion; living.   G5 P3114 = means 5 pregnancies; 3 went to term; 1 was preterm; 1 aborted & 4 are living today
+Pelvic Inflammatory Disease,"""PID""; ascending infection from vagina to uterus caused by a STD usually chlamydia or gonoccus. Chlamydia is an insidious bacterial infection often without symptoms. Symptoms are mild abdominal tenderness & low grade fever; will destroy a lot of tissue before presenting. Gonococcus; often called gonorrhea or slang term ""clap"" has a sudden onset. Lower GI pain; high fever; foul discharge; rebound pain; RUQ pain; pt will look sick and be sick."
+Perineum,Pelvis floor between vulva and anus
+Placenta percreta,A placenta that invades the uterine wall. In placenta percreta; the vascular processes of the chorion (the chorionic villi); a fetal membrane that enters into the formation of the placenta; may invade the full thickness of the myometrium. This can cause an incomplete rupture of the uterus. The chorionic villi can go right on through both the myometrium and the outside covering of the uterus (serosa); causing complete and catastrophic rupture of the uterus.
+Postmortem,Occuring or performed after death
+Preeclampsia,Toxemia of pregnancy (HTN or 30 pts systolic; 15 pts diastolic from entry BP; headaches; photophobia; RUQ pain; proteinuria; hyperreflexia) leads to eclampsia
+Previa,Low attachment of placenta; painless bright red blood
+Prolapse Cord,Expulsion of cord prematurely. Very serious fetal emergency
+Preterm,20-36 weeks
+Ruptured Cyst,Leakage of fluid outside the sac; causes irritation and pain
+Septic,Infection of the products of conception & endometrial lining of the uterus
+Spontaneous ,Occurs without apparent cause
+Term,36 weeks & up
+Therapeutic,Performed when mom is in danger
+Threatened,Signs & symptoms are there; pregnancy may continue
+Toxic Shock Syndrome,Rare bacterial disease; sudden onset of high fever; N/V; profuse watery diarrhea & myalgia (severe pain in abdomen; comes and goes; may be intensified by movement); followed by hypotension and in severe cases; shock.
+Uterine Inversion,Uterus turns itself inside out
+Vernix Caseosa,A white cheesy substance that covers and protects the skin of the fetus and is still all over the skin of a baby at birth. Vernix caseosa is composed of sebum (the oil of the skin) and cells that have sloughed off the fetus' skin

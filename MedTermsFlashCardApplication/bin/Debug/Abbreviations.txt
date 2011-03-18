@@ -1,0 +1,133 @@
+AAA,Aortic Abdominal Aneurysm
+ACE,Angiotensin Converting Enzyme 
+ACLS,Advanced Cardiac Life Support
+AED,Automated External Defibrilator
+Af,Atrial Fibrillation
+AICD,Automatic Implantable Cardioverter/Defibrilator 
+AIDS,Acquired Immuno Deficiency Syndrome
+AIVR,Accelerated Idioventricular Rhythm 
+AMI,Acute Myocardial Infarction
+AP,Anterior/Posterior; Angina Pectoris; Alkaline Phosphatse; Apical Pulse
+APE,Acute Pulmonary Edema
+ARDS,Adult Respiratory Distress Syndrome
+ASA,Acetylsalicylic Acid (aspirin) 
+ASHD,Arterial Sclerotic Heart Disease
+AVPU,Alert Verbal Painful Unresponsive (mental status reading)
+AZT,"Azidomithydine, Zidovudine"
+CABG,Coronary Artery Bypass Graft
+CAD,Coronary Artery Disease
+CFR,Certified First Responder
+CME,Continuing Medical Education
+CNS,Central Nervous System
+CSM,Carotid Sinus Massage
+COPD,Chronic Obstructive Pulmonary Disease
+CP,Cerebral Palsy
+CPAP,Continous Positive Airway Pressure 
+CVA,Cerebrovascular Accident
+DEA,Drug Enforcement Agency
+DKA,Diabetic Ketoacidosis
+DOA,Dead On Arrival
+DMI,Diaphragmatic Myocardial Infarction
+DOE,Dyspnea On Exertion
+DOH,Department Of Health
+DTMF,Dual Tone Multi Frequency (touch tone)
+DTR,Deep Tendon Reflexes
+DWAI,Driving While Ability Impaired
+DWI,Driving While Intoxicated
+ECG,Electrocardiogram
+EEG,Electroencephalogram
+EGTA,Esophageal Gastric Tube Airway
+EKG,Electrocardiogram (ECG is preferable)
+EMD,Emergency Medical Dispatcher
+EOA,Esophageal Obturator Airway
+ETA,Estimated Time of Arrival
+ETOH,Ethyl Alcohol
+FCC,Federal Communication Commission
+GCS,Glasgow Coma Scale
+GI,Gastrointestinal
+GSW,Gun Shot Wound
+gtts,Guttae (drops)
+GYN,Gynecology
+HCTZ,Hydrochlorothiazide
+HIV,Human Immunodeficiency Virus
+HPI,History of Present Illness
+HTN,Hypertension
+ICD,Implantable Cardioverter/defibrillator; Intrauterine Contraceptive Device; Ischemic Cardiac Disease
+ICP,Intracranial Pressure
+ICU,Intensive Care Unit
+IDDM,Insulin Dependant Diabetes Mellitus
+INR,International Normalized Ratio
+IPPV,Intermittent Positive Pressure Ventilation
+IVR,Idioventricular Rhythm
+JVD,Jugular Vein Distention
+KED,Kendrick Extrication Device
+LBBB,Left Bundle Branch Block
+LGL,Lown Ganong Levine Syndrome
+LR,Lactated Ringers
+LVH,Left Ventricular Hypertophy
+MAST,Medical Anti Shock Trousers (registered trademark PASG)
+ME,Medical Examiner
+MR,Mental Retardation; Mitral Regurgitation
+MVA,Motor Vehicle Accident
+MV02,Myocardial Oxygen Consumption
+MVP,Mitral Valve Prolapse
+NPO,Nil Per Os (nothing by mouth)
+NS,Normal Saline
+NSAID,Non-steroidal Anti Inflammatory Drugs
+NTG,Nitroglycerine
+O2,Oxygen
+OB,Obstetrics; Occult Blood
+OBS,Organic Brain Syndrome
+OC,Oral Contraceptives; oleoresin capsicum 
+OPA,Oropharyngeal Airway
+PAC,Premature Atrial Contraction
+PALS,Pediatric Advanced Life Support
+PAT,Paroxysmal Atrial Tachycardia
+PCD,Pacing Cardioverter/Defibrilator (Implanted)
+PCN,Penicillan
+PCP,Phencyclidine; Pneumocystis Carinii Pneumonia
+PE,Pulmonary Embolus; Physical Exam
+PEA,Pulseless Electric Activity
+PEARL,Pupils Equal And Reactive to Light
+PEEP,Positive End Expiratory Pressure
+pH,The inverse log of the hydrogen ion concentration
+PID,Pelvic Inflammatory Disease
+PJC,Premature Junctional Contraction
+PMD,Private Medical Doctor
+PMH ,Past Medical History
+PMI,Point of Maximal Impulse
+PND,Paroxysmal Nocturnal Dyspnea
+PO,Per Os (By mouth)
+PQRST,Provication Quality Radiation Severity Time
+psi,pounds per square inch
+PSVT,Paroxysmal Supraventricular Tachycardia
+PTT,Partial Thromboplastin Time; Push to Talk
+PVC,Premature Ventricular Contraction
+QID,quarter in die (4 times daily)
+RBBB,Right Bundle Branch Block
+RBC,Red Blood Cell
+RIND,Reversible Ischemic Neurologic Deficit
+ROPD,Reversible Obstructive Pulmonary Disease
+RSI ,Rapid Sequence Induction (pharm assisted intubation)
+RSR,Regular Sinus Rhythm
+SIDS,Sudden Infant Death Syndrome
+STD,Sexually Transmitted Disease; Standardize
+TB,Tuberculosis
+TCA,Tricyclic Antidepressant
+TIA,Transient Ischemic Attack
+TID,Ter in die (3 times daily)
+UHF,Ultra High Frequency
+URI ,Upper Respiratory Infection
+UTI,Urinary Tract Infection
+VD,Venereal Disease
+VEB,Ventricular Ectopic Beat
+Vf,Ventricular Fibrilation
+VT,Ventricular Tachycardia
+WBC,White Blood Cells
+WNL,Within Normal Limits
+WPW,Wolf Parkinson White syndrome
+WS,Watt Second
+c ,with (cum)
+s,without (sans)
+a,before (ante)
+p,after (post)

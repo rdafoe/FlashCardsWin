@@ -1,0 +1,342 @@
+a-,Denotes an absence of
+ab-,away from
+-ac,pertaining to
+acou-, Of or relating to hearing
+ad, toward - in the direction of
+aden, gland
+adip,Of or relating to fat or fatty tissue
+-al,pertaining to
+alb-,Denoting a white or pale color
+alg,pain
+-algia,pain
+all,different or as an addition
+ambi-,both sides; Describing both of two
+andr(o),pertaining to a man
+angi(o),blood vessel
+aniso-,Different in size ; unequal
+ante-,before or forward
+anti-,'against' or 'opposed to' 
+arteri(o)-,Of or pertaining to an artery
+arthr(o)-,Of or pertaining to the joints, limbs
+-ase,enzyme
+-asthenia,weakness
+aud, hear
+aur,Of or pertaining to the ear
+aus, hear
+auto,self
+bi-,twice, double
+bio-,life
+blast,immature cell or germ 
+bleph,Of or pertaining to the eyelid
+brachi,Of or relating to the arm
+brady,Indicating 'slow'
+burs,sac
+can, malignant tumor
+capnia, carbon dioxide
+carbia, carbon dioxide
+carc, cancer
+card, heart
+cardi(o)-,Of or pertaining to the heart
+carotid, neck artery
+carp(o)-,Of or pertaining to the wrist
+caus, burn
+caut, burn
+cent, center or 1/100th
+centesis, puncture with needle
+cephal(o)-,Of or pertaining to the head (as a whole)
+chrom,color
+chrono,time
+cide,killing; destroying
+circum-,Denoting something as 'around' another
+co-,with, together; in association
+contra,against
+core, Of or pertaining to eye's pupil
+cry(o)-,cold
+cubitus,elbow
+cuss,shake
+cutaneous,skin
+-cyte,cell
+cyan(o),blue
+cyst(o),bladder;sac
+dent,tooth
+derm,skin
+dextro,right
+di,two;twice;double
+dia,through;completely
+dys,with pain or difficulty
+ecto, out from
+ectomy, surgical removal
+ego, goat; self
+emesis, voimt
+-emia, in the blood
+endo,within
+ep(i),on top of
+erythr(o), red
+eu,normal
+fibr,fibers
+foramen,opening
+fract,break
+gastr(o),stomach
+gen,become;produce
+genic, causing; forming
+gloss,tongue
+gluco,glucose
+-gnosis,knowledge
+-gram,written; recording
+hem(a),blood
+hemi,half
+hepat(o),liver
+hydro,water
+hyper,excessive
+hypo,deficient; Lacking; insufficient
+hyster(o),uterus
+idio,personal;strange
+infra,below
+inter,between
+ism,condition of
+-itis,inflammation
+leuk(o),white
+lith(o),stone
+-lysis,destroying
+lythic,destruction
+macro,large
+micro,small
+morph,shape
+nas(o),nose
+neo,new
+nephr(o),kidney
+oid,likeness,resembles
+-ology,science of
+-oma,tumor
+opthal,eye
+-osis,condition of
+oxia,oxygen
+oxy,oxygen
+para,next to; by the side of
+path(o),disease
+pheo,dusky color
+phleb(o),vein
+-phobia,fear
+photo,light
+plastic,substance(formed tissue)
+-pnea,breathing
+pneum(o),air; lung
+post,after; behind
+pro,before; in front of
+pseudo,false
+quad,four
+rhin(o),nose
+rub,red
+sang,blood
+scler,hard
+stern(o),sternum (breastbone)
+stoma,mouth; opening
+sub,under
+supra,above
+tachy,fast
+thermia,relating to temperature
+tri,three
+uni,one
+vaso,vessel
+vivo,life
+xfer(o),dry
+Zoo,non-human animal
+agora,of the market place
+baro,pressure
+brachy,short
+bronch,tracheal division
+bucc,cheek
+call,thick skin
+calca,heel
+caput,head
+cerebro,brain
+cerv,neck
+cil,hair-like
+col,colon
+cond,knuckle
+crypto,hidden
+-cule,small
+dis,apart
+duct,guide;tubular path
+dynia,with pain
+edem,swelling
+electr(o),electricity
+encephal(o),brain
+enter,intestine
+ex,out of
+facil,easy
+febr,fever
+flex,bend
+gest,carry; produce
+gly,glucose
+-graph,written; recording
+gyn,women
+gynec,women
+histo,tissue
+homo,same
+hygro,moisture 
+ingui,groin
+iso,equal
+kinesis,motion
+kinetic,motion
+lact(o),milk
+mal,bad
+meatus,external opening
+med,middle
+mega,large
+mel,limb
+melan,black
+meta,after; beyond; change
+meter,measure
+milli,1/1000th
+morb,disease
+odon,tooth
+oo,egg
+ortho,straight
+os,mouth
+pari,bear offspring
+part,bear
+ped,child; foot
+peri,around
+percuss,strike through
+-phono,voice; sound
+plasia, to form substance(tissue)
+-plasty,repair of; tying of
+-plegia,paralysis
+pleur(o),lung cavity membrane
+prand,meal
+proct,rectum
+psych(o),mind
+pulm(o),lung
+pur,pus
+py(o),pus
+pyr(o),fever
+quar,four
+quat,four
+radius,rod
+retro,backward
+-scope,instrument to exam with
+-scopy,exam with instrument
+sebum,fat
+sect,cut
+semi,half
+sept,wall
+sonic,sound
+stature,height
+super,above
+tel,distance
+thorac(o),chest
+thromb(o),clot
+toc(o),uterine contraction
+-tomy,cutting; incision
+trans,across
+tuss,cough
+uria,urine
+vagin,vagina
+ventr,front;anterior
+viscer(o),viscera (lips of bowel)
+acr(o),ends of a part
+ana,up; back; again; excessively
+ankyl(o),bent; crooked
+asth, short of breath; panting
+-cele,hernia
+chol(e),bile
+-cle,small
+cleid,clavicle
+coll,gelatin; neck
+con,with; together
+cori,skin
+corp,body
+cost(o),rib
+cyc,circle
+de,down; from
+dorsi,posterior
+dromo,running
+em,in
+-esth,sensation
+eti,cause
+gon,become; produce
+heter(o),different
+iatr(o),physician
+ictal,sudden attack; Sx
+icter,jaundice
+in,not
+-ine,usually a vasoconstrictor
+ino,fiber
+ipsi,same
+later,side
+lev(o),left
+ling,tongue
+men,monthly
+mening,lining of brain & spinal cord
+mime,copy
+mono,one
+myco,fungus
+myel,spinal cord; marrow
+my(o),muscle
+neur(o),nerve
+noct,night
+nomen,name
+nomin,name
+occipit,back of head
+ocul,eye
+olig(o),little
+-olol,generally a beta blocker
+onc(o),cancer; tumor
+oophor,ovary
+orch,testes
+oste(o),bone
+-ostomy,created opening
+ot(o),ear
+ov,related to ovary or egg
+parie,wall
+per,through
+pena,deficiency
+phago,eat
+phall(o),penis
+-phasia,speech
+philia,loves
+philic,loves
+phylaxis,protection
+pino,to drink
+pod,foot
+poikelo,varied
+poly,many
+-pril,generally an ACE inhibitor
+ptosis,falling down
+pty,cough out
+pyel,renal; pelvis
+ren,kidney
+recticulm,network
+-rythmia,rythm
+-rrhea,flowing
+-rrage,excessive flow
+-rrhagia,burst forth
+-rrhaphy,sutire repair
+salpin,tube
+sarco,flesh
+sinister,left; bad
+sinus,cavity; or cycle
+somat(o),body; or coming from the body
+somn(e),sleep
+spir,coil
+stasis,stopping
+stat,stop
+-static,stopping
+staus,condition
+steno,narrowing
+-stomy,surgical opening
+sulc,groove
+sym,with; together
+tact,touch
+talu,ankle
+-taxia,order; arrangement
+tome,cut
+toxic,damaging
+trich,hair
+-tropia,nourishment
+tropic,influence
+varic,dialated vein
+venter,abdomin; belly
+vitro,glass
+xen(o),foreign

@@ -1,0 +1,79 @@
+Absorbants,Charcoal Kayexalate
+ACE Inhibitors,Capopril Enalapril Quinapril Benzepril Lisinopril
+Alpha Blockers,Hytrin
+Antacids,Tums Maalox Mylanta Rolaids NaHCO3 Gaviscon
+Antiarrhythmics,Mexiletine Amiodarone Quinaglute Norpace
+Antibiotics,Penicillin EES Bactrim INH Rifampin Septra
+Anticonvulsants,Dilantin Phenobarbital Tegretol Valproic Acid
+Antidepressants,Zoloft Lithium
+Antihistamine,Benadryl Seldane Chlorpheniramine Hismanal
+Antivirals,Zovirax AZT DDI
+Anxiolytics,Valium Xanax Wellbutrin
+Benzodiazepines,"Valium (diazepam) Adivan Versed (midazolam) Halcion (triazolam)  the ""pams & lams"". Indications: convulsions & seizures. IV before a procedure to cause amnesia. Anti-seizure. Anxialitic. Increases GABA in the brain chemicalty liberate GABA activity - sedating promotes sleep (in individuals that want to sleep) anmesia. Never used for pain - no pain relief."
+Beta Blockers,"Other acceptable names: Sympathetic Block Beta antagonist  1 (chronotropic):                                                                  2  (bronchodilator) Blocker
+Actions:                                     
+· Reduce heart rate & blood pressure                                   
+· Excellent anti-arrhythmic in all regions of the heart including fascicles                                   
+· Used to prevent thyroid storm pheochromocytoma                                   
+· Other uses: tremors & migraines                                   
+Inderal (Propranolol) - Glucagon will reduce effects of overdose
+Beta Specific Blockers,"Other acceptable names
+· Cardiospecific B1 antagonist Cardioselective                                   
+Actions:                                   
+· Reduce heart rate & blood pressure                                   
+· Anti-arrhythmic                                    
+· Used to prevent thyroid storm pheochromocytoma                                   
+· Generally used for ? B/P                                   
+· Slows things down – has 8-hour half-life                                   
+· Lopressor (metoprolol) Tenormin Corgard Blocadren
+Bronchodilator,Aminophylline Atrovent Albuterol Metaproterenol
+Ca Blocker,Nifedipine Cardizem Isotin Calan Plendil Dynacirc
+Carbohydrates,"Dextrose (glucose); Mannitol; Sorbitol; D25 = 10cc D50 + 10cc sterile water or NACL mixed together. Actions: Works with insulin CO2 & B1 (thiamine) to produce ATP. Highly oncotic (pulling power) in high concentration. Shift ion through competition out of blood
+
+"
+Cardiac Glycosides,"Chronotropic - (SA node); Dromotropic - (AV Node); Inotropic + (ventricles). 
+Decrease heart rate (<60 bpm contraindicated). AV conduction slows down significantly strengthens weak myocardium.                                                                                                                                                 Only drug with very narrow therapeutic window
+Lanoxin Diogoxin Digitalis                                                                                                                            *Note:  Digitoxic life threats: Never give calcium chloride Never cardiovert (if cardiovert; use 1j then work your way up) Hypokalemia Sodium Bicarb or Albuterol (PROVENTIL)"
+Cathartics,(Bulk) Metamucil (Salts) Mag Sulfate (Emollients) Colace (Lubricants) Mineral Oil (Peristaltic) Dulcolax
+Cholesterol Lowering,Lopid Zocor Lozol Mevacor
+Diurectic's                 (Loop Osmotic),HCTZ Lasix Mannitol Triamterene
+Emetics,"Apomorphine Ipecac (dosage: 29.5 ml) 1/2 t Liquid Dish Detergent Mustard or Salt Water gagging with oral airway.                                                                                                                                             Actions: Induces vomiting. Directly irritates the lining of the stomach. Some of these drugs stimulate the vomiting center of the brain. This is an evolutionary advantage to expel poisonous materials. Reverse peristalses. To rid the body of something highly poisonous
+"
+Erectile Dysfuntion,"Viagara (Sildenafil); Cialis (Tadalafil); Levitra (Vardenafil); Yohimbine; Uprima (Apomorphine)-can be given subcutenously IM or IV. In tiny amounts this is used as an erectile dysfunction drug. .                                                                                                                                                                        Actions: Restore normal physiology having deficient in nitric acid or oxide – lining of the blood vessel - vasodilator
+
+"
+Hematopoietic,Fe Folic Acid B Vitamins
+Histamine 1 Blockers,Benadryl (diphenhydramine) (fat soluble); Dimetap (Clorpheneramine meleate) (water soluble); Claritin (loratadine) (water soluble); Allegra.                                                                                                                             Actions:· Blocks histamine receptor sites. When given early or pre-event can minimize or stop allergic reactions. Have anticholenergic effects; decrease in GI motility HR increase mydriasis. Sedates adults / excited peds – paradoxical response
+Histamine 2 Blockers,
+MAO Inhibitors,Class of powerful antidepressant drugs prescribed for the treatment of depression.
+Methylxanthines,
+Mucolytics,Mucomyst
+Narcotic Antagonist,"Aggressive vie for a receptor site. This drug bumps the narcotic from the receptor site. Competitive for the receptor site in the brain. After it bumps the narcotic it binds to the receptor site then the narcotic is metabolized.                                                                                                                                                     Narcan (naxolone) 0.4 mg in 10 ml NACL – VERY SLOW IV push. Half-life 10-20 minutes
+Revia (naltrexone) long-acting used in hospital
+
+"
+Narcotics,"Opium; Morphine; Dilaudid; Heroin; Propoxyphene (Darvon); Fentanyl; Oxycodone (vicodin) lortab; Hydrocodone (percocet); percodan; Methadone; Dextromethoriphan (cough meds indicated by DM but there is currently no known way to separate it from sugar); Codeine; Darvocet; Oxycontin.                                      Actions: Powerful Analgesic; Vasodilators (by histamine release); Sedatives; Decrease peristalsis - constipation.; Euphoria (a misnomer; -phoria means feeling); Nausea / vomiting; Antitussants 
+"
+Nitrates,"NTG Isosorbode Dinitrate / Mononitrate Nitrek (transdermal).                                                                    Actions: Smooth muscle relaxor (GI tract as well) Venodilators Turns cyanohemoglobin to methemoglobin. Given when B/P is > 90 mm/Hg. Administer with pt laying down – administer fluids. MVO2
+ "
+Non-narcotic Analgesic,"Tylenol (acetaminophen or paracetamol) (APAP: N-acetyl-p-aminophenol).                                                                     Actions:· Analgesic (converted in the liver during first pass by glutathione from APAP into an analgesic substance that is incredibly safe in appropriate doses. The recommended dosing is based on a normal person that makes a normal amount of glutathione). Antipyretic. Pain-relief
+                                                          
+"
+NSAIDS,Aleve ASA (acetylsalicylic acid) – Dosage: 325 mg per Tablet / 650 mg Q 6-8 H. Celebrex Ibuprofen Indocine (indomethacine) Mobic Naproxen (naproxen sodium) Relafen Tramadol Toradol (Ketorolac tromethamine) – parental Voltaven.                                                                                                                              Actions: Block chemical cascades of irritating chemicals such as prostoglandins COX I (support platelets; bleeding and protects the stomach) and COX II (inflammation pain & fever). Antipyretics
+Phenothiazines,Haldol Compazine Phenorgan
+Steroids,"Decadron Prednisone Methylprednisolone - Methylprednisolone is used to preserve the spinal cord in spinal injuries by preventing infiltration of spine by WBC's. · Work by interfering with WBC’s activity. WBC “chemotax” toward inflammation. Interfering with immune system – fever would have a normal temperature
+· Arthritis – producing too little steroid. Brain tumors. Asthma attack (inflammation) – blocks leukotriene production.Ulcers (B2) works better with steroids
+"
+Sulfonylureas,Diabeta - Increases insulin receptors affinity for insulin. Potentiated by NSAIDS MAO inhibitors & Beta blockers
+Sympathomimetics," <REMEMBER THE SABOR TOOTH TIGER STORY>                                                                                      Adrenaline Hcl (Epinephrine) Intropin (dopamine Hcl) Yutopar (ritodrine)
+(?1): Neo-synephrine (phenylephrine) Suphedrin & Pseuoephed (Pseuoephedrine Hcl) Ephedrine (ephredrine sulfate)
+Beta agonists: Isuprel (isoproterinol) Pure ?1 & ?2
+?2 agonist: Proventil & Ventolin (albuterol) Alupent (metaproternol sulfate) Bricanyl & Brethaire & Brethine (terbutaline sulfate)
+"
+Tocolytic,"IV fluids > 1 liter Sympathomimetics: tachycardia arrythmias Calcium channel blockers: Terbutaline Breathine Bricanyl albuterol. Yutopar (Ridodrine Hcl) Magnesium sulfate.                                                                   Actions: Weakens or stops uterine contractions
+
+"
+Tocotonic,"Oxytocin (synthetic hormone; “Love Hormone”) - Pitocin (“Pit”)                                                                                                           Dosage: 10 units/ in LR or NACL 1000 ml over 30 minutes.                                                                                                                                               Actions: These drugs stimulate uterine contraction for hospital administration to help or assist labor. After delivery used for post-partum hemorrhage
+
+"
+Tricyclics,Elavil Endep Norpramin Pamelor Sinequan Tofranil - Bicarb for OD
